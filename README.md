@@ -1,7 +1,7 @@
-# This is Java Logic test Project
+# This is Java Logic Test
 
 ## Java Simpe Cashier App
-This is a test when I join a GEMASTIK the programming competition. It might not a lot but, i'm pretty sure it's gonna be useful for some of you
+This is a test when I join a GEMASTIK that was a programming competition hosted by Indonesian Ministry of Education, Culture, Research and Technology. It might not a lot but, i'm pretty sure it's gonna be useful for some of you
 
 ## Additional
 If you found any bug, feel free to commit by creating a new branch, and you can do pull request so I could merge with main branch to help more people. Thank you so much for visiting my code, have a nice day.
