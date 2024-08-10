@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=GemastikSandi
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=table\ a
+comment2.target=java.lang.String\ getIndex(java.lang.String[][],\ java.lang.String)
+comment3.params=a
+comment3.target=java.lang.String\ getHuruf(int)
+numComments=4
